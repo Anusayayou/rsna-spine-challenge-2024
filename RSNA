@@ -1,0 +1,17 @@
+rsna-spine-challenge-2024/
+├── data/
+│   ├── raw/                # Raw data files
+│   ├── processed/          # Preprocessed data files
+├── notebooks/              # Jupyter notebooks for EDA and experiments
+├── src/                    # Source code
+│   ├── data_preprocessing.py
+│   ├── model_training.py
+│   ├── model_evaluation.py
+│   ├── utils.py
+├── models/                 # Trained models
+├── scripts/                # Scripts for running training, evaluation, etc.
+│   ├── train.sh
+│   ├── evaluate.sh
+├── README.md               # Project documentation
+├── requirements.txt        # Dependencies
+├── .gitignore              # Git ignore file
